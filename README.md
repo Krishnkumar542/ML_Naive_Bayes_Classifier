@@ -30,7 +30,7 @@ After running the model, the accuracy score obtained for the different types of 
 
 ![Accuracy Report](https://github.com/Krishnkumar542/ML_Naive_Bayes_Classifier/blob/main/Accuracy_report.png)
 
-From the above bar chart, it is clear that the most accurate model is Gaussian Naive Bayes which work well with an accuracy of 95%. Now, working with this method, the precision, recall and f1- score is estimated as shown above report. In indicates the model accurately predict the setosa flower whereas the versicolor and virginica flowers gives a slight error during the prediction.
+From the above bar chart, it is clear that the most accurate model is Gaussian Naive Bayes which work well with an accuracy of 95%. Now, working with this classification type, the precision, recall and f1- score is estimated as shown in the above report. It indicates the model accurately predict the setosa flower whereas the versicolor and virginica flowers gives a slight error during the prediction.
 
 ### Confusion Matrix:
 
