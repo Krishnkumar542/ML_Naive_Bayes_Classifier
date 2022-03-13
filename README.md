@@ -11,5 +11,8 @@ It is a multiclass classification problem. The data is used <a href="https://git
 Let’s use this standard iris dataset to predict the Species of flower using 4 different features: Sepal Length, Sepal Width, Petal Length, and Petal Width. This data is work well with the Naive Bayes classifier with the accuracy of 95%.
 
 
-![Optional Text](https://github.com/Krishnkumar542/ML_Naive_Bayes_Classifier/blob/main/Accuracy.png)
+![Model Accuracy](https://github.com/Krishnkumar542/ML_Naive_Bayes_Classifier/blob/main/Accuracy.png)
+![Accuracy Report](https://github.com/Krishnkumar542/ML_Naive_Bayes_Classifier/blob/main/Accuracy_report.png)
+![Confusion Matrix](https://github.com/Krishnkumar542/ML_Naive_Bayes_Classifier/blob/main/CM.png)
+
 
