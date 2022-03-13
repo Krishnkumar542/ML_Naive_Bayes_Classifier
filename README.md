@@ -12,5 +12,5 @@ Let’s use this standard iris dataset to predict the Species of flower using 4 
 
 
 from IPython import display 
-display.Image("https://<link-to-image>")
+display.Image("https://github.com/Krishnkumar542/ML_Naive_Bayes_Classifier/blob/main/Accuracy.png")
 
