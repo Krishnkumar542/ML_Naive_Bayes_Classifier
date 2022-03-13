@@ -21,7 +21,7 @@ We train the model with the above classification methods and then verify the acc
 
 ![Model Accuracy](https://github.com/Krishnkumar542/ML_Naive_Bayes_Classifier/blob/main/Accuracy.png)
 
-After running the model, the accuracy score obtained for the different types of the Naive Bayes Classifications model are;
+After running the model, the accuracy score obtained for the different types of the Naive Bayes Classifications models are;
 1. Gaussian Naive Bayes >> 95%
 2. Multinomial Naive Bayes >> 93%
 3. Bernoulli Naive Bayes >> 25%
